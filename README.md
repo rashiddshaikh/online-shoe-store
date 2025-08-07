@@ -56,7 +56,7 @@ middlewares/
 
 ---
 
-📦 Installation
+## 📦 Installation
 
 🌐 Frontend Setup
 ```bash
