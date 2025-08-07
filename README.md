@@ -53,6 +53,9 @@ models/
 routes/
 middlewares/
 ```
+
+---
+
 📦 Installation
 
 🌐 Frontend Setup
@@ -81,6 +84,8 @@ npm install
 npm run server
 
 ```
+
+---
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/rashiddshaikh/online-shoe-store)
 ![GitHub forks](https://img.shields.io/github/forks/rashiddshaikh/online-shoe-store)
