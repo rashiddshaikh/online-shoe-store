@@ -36,26 +36,6 @@ A full-featured **MERN Stack E-commerce Application** designed for managing an o
 
 ---
 
-## 📁 Project Structure
-
-```bash
-server.js
-client/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── context/
-│   └── styles/
-config/
-controllers/
-models/
-routes/
-middlewares/
-```
-
----
-
 ## 📦 Installation
 
 🌐 Frontend Setup
